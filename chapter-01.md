@@ -1,3 +1,3 @@
 Even better first line here, the old one was bad.
-Then a good second line.
+Perfect, amazing second line.
 And even better third.
